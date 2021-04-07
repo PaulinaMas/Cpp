@@ -1,0 +1,11 @@
+symbol lotu: HNO3C 
+lotnisko:    Madryt
+data:        2010-03-30
+
+lista pasazerow: 
+01  Bohr
+21  Fleming
+33  Sklodowska-Curie
+35  Mendelejew
+
+liczba rezerwacji: 4

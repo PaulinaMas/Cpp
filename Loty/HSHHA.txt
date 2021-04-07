@@ -1,0 +1,15 @@
+symbol lotu: HSHHA 
+lotnisko:    Radom
+data:        2018-12-31
+
+lista pasazerow: 
+03  Pieczynski
+07  Fedorowicz
+22  Talik
+23  Holda
+38  Cison
+39  Jakub-Maciek
+40  Maslowska
+41  Pawlik
+
+liczba rezerwacji: 8

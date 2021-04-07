@@ -1,0 +1,11 @@
+symbol lotu: 82XD5 
+lotnisko:    Warszawa
+data:        2015-11-03
+
+lista pasazerow: 
+03  Starmach
+21  Krupa
+30  Rozenek
+50  Kluczewski
+
+liczba rezerwacji: 4

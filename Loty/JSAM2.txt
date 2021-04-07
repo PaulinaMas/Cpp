@@ -1,0 +1,11 @@
+symbol lotu: JSAM2 
+lotnisko:    Paryz
+data:        2000-02-20
+
+lista pasazerow: 
+08  Fredro
+21  Mickiewicz
+22  Slowacki
+41  Sienkiewicz
+
+liczba rezerwacji: 4

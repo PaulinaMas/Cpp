@@ -1,0 +1,11 @@
+symbol lotu: TY34O 
+lotnisko:    London
+data:        2012-02-29
+
+lista pasazerow: 
+02  Hastings
+12  Holmes
+23  Poirot
+43  Lemon
+
+liczba rezerwacji: 4
